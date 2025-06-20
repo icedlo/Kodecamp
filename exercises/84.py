@@ -8,6 +8,7 @@
 
 
    #problem2
+#print names that end with letter y
 
 name=["jacon", "abdon", "lucy", "ivy"]
 
